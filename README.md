@@ -12,6 +12,8 @@ The system is designed to be simple, efficient, and easy to use. It includes pro
 
 This project demonstrates how modern speech-to-text technology works using existing APIs and libraries without building a model from scratch. It highlights the practical application of Natural Language Processing (NLP) and machine learning in real-world systems such as virtual assistants, voice search engines, and automated transcription services.
 
+*OUTPUT*:
+
 [pr2.py](https://github.com/user-attachments/files/25226522/pr2.py) 
 [audio.wav](https://github.com/user-attachments/files/25226569/audio.wav)
 

@@ -14,6 +14,8 @@ This project demonstrates how modern speech-to-text technology works using exist
 
 *OUTPUT*:
 
-[pr2.py](https://github.com/user-attachments/files/25226522/pr2.py) 
+ 
 [audio.wav](https://github.com/user-attachments/files/25226569/audio.wav)
+<img width="1162" height="145" alt="Image" src="https://github.com/user-attachments/assets/2b42ec7f-6e9b-42cb-8e9e-6abae81c61fc" />
+
 
